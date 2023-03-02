@@ -1,0 +1,6 @@
+We request that publications derived from the use of the SimMATPOWER toolbox
+explicitly acknowledge that fact by citing the following paper which initiated the development of this toolbox
+
+  Online Feedback Optimization for Transmission Grid Operation
+  Lukas Ortmann, Jean Maeght, Patrick Panciatici, Florian Döfler, Saverio Bolognani
+  https://arxiv.org/pdf/2212.07795.pdf
